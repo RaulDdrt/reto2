@@ -1,0 +1,1 @@
+Para subir un proyecto a git primero tienes que iniciarlo con npm init dentro de una carpeta donde lo quieras ubicar, creas el repositorio local con git init, lo creas online en github para poder exportarlo, y luego lo subes con git add . para añadir todos los archivos nuevos y git commit -m para apuntar los cambios que hemos hecho y confirmar git push para terminar la subida.
